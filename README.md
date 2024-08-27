@@ -21,7 +21,7 @@ Vous pouvez lire différentes documentations qui vous aideront à comprendre le 
 1. Clone the GitHub repository to your local machine <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="15" alt="git logo" />:
 
     ```
-    git clone https://github.com/Alexous-O/Remote-Process-Injection
+    git clone https://github.com/Alexous-O/Remote-Process-Injection.git
     ```
     
 2. Then launch the project
